@@ -14,7 +14,8 @@
 </head>
 <body>
     <h2>Welcome, <%= username %>!</h2>
-    <p>This your login page.</p>
+    <h2>Welcome to Home Page</h2>
+    <p>This your Home page.</p>
     <a href="login.html">Logout</a>
 </body>
 </html>
